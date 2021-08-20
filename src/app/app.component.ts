@@ -5,5 +5,5 @@ import { Component } from '@angular/core';
   template: `<div>Hello {{value}}</div>`,
 })
 export class AppComponent {
-  value = 'Srm App in Azure Cloud';
+  value = 'Build and Deploy Srm App from GitHub in Azure Cloud ';
 }
